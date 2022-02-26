@@ -14,6 +14,7 @@ Clone the project
 ```
 
 - Open `index.html` file in your browser of choice. Choose the number of iterations within which the glyphs will automatically alternate. 
+- Alternatively, [use this page](https://garymazzeo.github.io/calt-features-creator/).
 - Add the classes in this repository and the created contextual alternate feature to Glyphs Font Info -> Features section.
 - Add optional number and special character alternatives in calt feature.
 - Turn on `calt` feature.
