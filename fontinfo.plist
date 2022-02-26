@@ -1,0 +1,268 @@
+classes = (
+{
+code = "breve dotaccent ring hungarumlaut ogonek caron dotlessi fraction fi fl Lslash lslash Zcaron zcaron space exclam quotedbl numbersign dollar percent ampersand quotesingle parenleft parenright asterisk plus comma hyphen period slash zero one two three four five six seven eight nine colon semicolon less equal greater question at bracketleft backslash bracketright asciicircum underscore grave braceleft bar braceright asciitilde uni008E uni009D uni009E uni00A0 exclamdown cent sterling currency yen brokenbar section dieresis copyright ordfeminine guillemotleft logicalnot minus registered macron degree plusminus twosuperior threesuperior acute mu paragraph periodcentered cedilla onesuperior ordmasculine guillemotright onequarter onehalf threequarters questiondown Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis multiply Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis divide oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis OE oe Scaron scaron Ydieresis florin circumflex tilde endash emdash quoteleft quoteright quotesinglbase quotedblleft quotedblright quotedblbase dagger daggerdbl bullet ellipsis perthousand guilsinglleft guilsinglright Euro trademark nonmarkingreturn space L_l.liga
+
+";
+name = Etc;
+},
+{
+code = "Lslash Zcaron B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Scaron Ydieresis
+";
+name = notA;
+},
+{
+code = "Lslash Zcaron A C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Scaron Ydieresis
+";
+name = notB;
+},
+{
+code = "Lslash Zcaron A B D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Scaron Ydieresis
+";
+name = notC;
+},
+{
+code = "Lslash Zcaron A B C E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Scaron Ydieresis
+";
+name = notD;
+},
+{
+code = "Lslash Zcaron A B C D F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Scaron Ydieresis
+";
+name = notE;
+},
+{
+code = "Lslash Zcaron A B C D E G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Scaron Ydieresis
+";
+name = notF;
+},
+{
+code = "Lslash Zcaron A B C D E F H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Scaron Ydieresis
+";
+name = notG;
+},
+{
+code = "Lslash Zcaron A B C D E F G I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Scaron Ydieresis
+";
+name = notH;
+},
+{
+code = "Lslash Zcaron A B C D E F G H J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Scaron Ydieresis
+";
+name = notI;
+},
+{
+code = "Lslash Zcaron A B C D E F G H I K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Scaron Ydieresis
+";
+name = notJ;
+},
+{
+code = "Lslash Zcaron A B C D E F G H I J L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Scaron Ydieresis
+";
+name = notK;
+},
+{
+code = "Lslash Zcaron A B C D E F G H I J K M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Scaron Ydieresis
+";
+name = notL;
+},
+{
+code = "Lslash Zcaron A B C D E F G H I J K L N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Scaron Ydieresis
+";
+name = notM;
+},
+{
+code = "Lslash Zcaron A B C D E F G H I J K L M O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Scaron Ydieresis
+";
+name = notN;
+},
+{
+code = "Lslash Zcaron A B C D E F G H I J K L M N P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Scaron Ydieresis
+";
+name = notO;
+},
+{
+code = "Lslash Zcaron A B C D E F G H I J K L M N O Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Scaron Ydieresis
+";
+name = notP;
+},
+{
+code = "Lslash Zcaron A B C D E F G H I J K L M N O P R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Scaron Ydieresis
+";
+name = notQ;
+},
+{
+code = "Lslash Zcaron A B C D E F G H I J K L M N O P Q S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Scaron Ydieresis
+";
+name = notR;
+},
+{
+code = "Lslash Zcaron A B C D E F G H I J K L M N O P Q R T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Scaron Ydieresis
+";
+name = notS;
+},
+{
+code = "Lslash Zcaron A B C D E F G H I J K L M N O P Q R S U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Scaron Ydieresis
+";
+name = notT;
+},
+{
+code = "Lslash Zcaron A B C D E F G H I J K L M N O P Q R S T V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Scaron Ydieresis
+";
+name = notU;
+},
+{
+code = "Lslash Zcaron A B C D E F G H I J K L M N O P Q R S T U W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Scaron Ydieresis
+";
+name = notV;
+},
+{
+code = "Lslash Zcaron A B C D E F G H I J K L M N O P Q R S T U V X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Scaron Ydieresis
+";
+name = notW;
+},
+{
+code = "Lslash Zcaron A B C D E F G H I J K L M N O P Q R S T U V W Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Scaron Ydieresis
+";
+name = notX;
+},
+{
+code = "Lslash Zcaron A B C D E F G H I J K L M N O P Q R S T U V W X Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Scaron Ydieresis
+";
+name = notY;
+},
+{
+code = "Lslash Zcaron A B C D E F G H I J K L M N O P Q R S T U V W X Y Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn OE Scaron Ydieresis
+";
+name = notZ;
+},
+{
+code = "dotlessi fi fl lslash zcaron b c d e f g h i j k l m n o p q r s t u v w x y z germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis oe scaron
+";
+name = NOTa;
+},
+{
+code = "dotlessi fi fl lslash zcaron a c d e f g h i j k l m n o p q r s t u v w x y z germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis oe scaron
+";
+name = NOTb;
+},
+{
+code = "dotlessi fi fl lslash zcaron a b d e f g h i j k l m n o p q r s t u v w x y z germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis oe scaron
+";
+name = NOTc;
+},
+{
+code = "dotlessi fi fl lslash zcaron a b c e f g h i j k l m n o p q r s t u v w x y z germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis oe scaron
+";
+name = NOTd;
+},
+{
+code = "dotlessi fi fl lslash zcaron a b c d f g h i j k l m n o p q r s t u v w x y z germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis oe scaron
+";
+name = NOTe;
+},
+{
+code = "dotlessi fi fl lslash zcaron a b c d e g h i j k l m n o p q r s t u v w x y z germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis oe scaron
+";
+name = NOTf;
+},
+{
+code = "dotlessi fi fl lslash zcaron a b c d e f h i j k l m n o p q r s t u v w x y z germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis oe scaron
+";
+name = NOTg;
+},
+{
+code = "dotlessi fi fl lslash zcaron a b d e f g i j k l m n o p q r s t u v w x y z germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis oe scaron
+";
+name = NOTh;
+},
+{
+code = "dotlessi fi fl lslash zcaron a b c d e f g h j k l m n o p q r s t u v w x y z germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis oe scaron
+";
+name = NOTi;
+},
+{
+code = "dotlessi fi fl lslash zcaron a b c d e f g h i k l m n o p q r s t u v w x y z germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis oe scaron
+";
+name = NOTj;
+},
+{
+code = "dotlessi fi fl lslash zcaron a b c d e f g h i j l m n o p q r s t u v w x y z germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis oe scaron
+";
+name = NOTk;
+},
+{
+code = "dotlessi fi fl lslash zcaron a b c d e f g h i j k m n o p q r s t u v w x y z germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis oe scaron
+";
+name = NOTl;
+},
+{
+code = "dotlessi fi fl lslash zcaron a b c d e f g h i j k l n o p q r s t u v w x y z germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis oe scaron
+";
+name = NOTm;
+},
+{
+code = "dotlessi fi fl lslash zcaron a b c d e f g h i j k l m o p q r s t u v w x y z germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis oe scaron
+";
+name = NOTn;
+},
+{
+code = "dotlessi fi fl lslash zcaron a b c d e f g h i j k l m n p q r s t u v w x y z germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis oe scaron
+";
+name = NOTo;
+},
+{
+code = "dotlessi fi fl lslash zcaron a b c d e f g h i j k l m n o q r s t u v w x y z germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis oe scaron
+";
+name = NOTp;
+},
+{
+code = "dotlessi fi fl lslash zcaron a b c d e f g h i j k l m n o p r s t u v w x y z germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis oe scaron
+";
+name = NOTq;
+},
+{
+code = "dotlessi fi fl lslash zcaron a b c d e f g h i j k l m n o p q s t u v w x y z germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis oe scaron
+";
+name = NOTr;
+},
+{
+code = "dotlessi fi fl lslash zcaron a b c d e f g h i j k l m n o p q r t u v w x y z germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis oe scaron
+";
+name = NOTs;
+},
+{
+code = "dotlessi fi fl lslash zcaron a b c d e f g h i j k l m n o p q r s u v w x y z germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis oe scaron
+";
+name = NOTt;
+},
+{
+code = "dotlessi fi fl lslash zcaron a b c d e f g h i j k l m n o p q r s t v w x y z germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis oe scaron
+";
+name = NOTu;
+},
+{
+code = "dotlessi fi fl lslash zcaron a b c d e f g h i j k l m n o p q r s t u w x y z germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis oe scaron
+";
+name = NOTv;
+},
+{
+code = "dotlessi fi fl lslash zcaron a b c d e f g h i j k l m n o p q r s t u v x y z germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis oe scaron
+";
+name = NOTw;
+},
+{
+code = "dotlessi fi fl lslash zcaron a b c d e f g h i j k l m n o p q r s t u v w y z germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis oe scaron
+";
+name = NOTx;
+},
+{
+code = "dotlessi fi fl lslash zcaron a b c d e f g h i j k l m n o p q r s t u v w x z germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis oe scaron
+";
+name = NOTy;
+},
+{
+code = "dotlessi fi fl lslash zcaron a b c d e f g h i j k l m n o p q r s t u v w x y germandbls agrave aacute acircumflex atilde adieresis aring ae ccedilla egrave eacute ecircumflex edieresis igrave iacute icircumflex idieresis eth ntilde ograve oacute ocircumflex otilde odieresis oslash ugrave uacute ucircumflex udieresis yacute thorn ydieresis oe scaron
+";
+name = NOTz;
+}
+);
