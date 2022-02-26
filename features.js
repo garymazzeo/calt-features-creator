@@ -1,5 +1,6 @@
 const code = document.querySelector('.code')
 const input = document.querySelector('.input')
+const hidden = document.querySelectorAll('.hidden')
 
 const alphabet = [...'abcdefghijklmnopqrstuvwxyz']
 
@@ -33,6 +34,9 @@ ${output}`
 function handleSubmit(e) {
   e.preventDefault()
   makeFeature(input.iteration.value)
+  hidden.forEach(hider => {
+    hider.classList.toggle('hidden')
+  })
 }
 
 input.addEventListener('submit', handleSubmit)

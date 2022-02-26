@@ -6,6 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+  <style>
+    .hidden {
+      display: none;
+    }
+  </style>
   <title>OpenType Features</title>
 </head>
 
@@ -17,12 +22,13 @@
       </label>
       <button class="button" role="button" type="submit">submit</button>
     </form>
-    <pre>
+    <pre class="hidden">
       <code class="code">
       </code>
     </pre>
-    <pre>
-      <code class="code">
+    <p class="hidden">Optional numbers and special characters:</p>
+    <pre class="hidden">
+      <code>
       # Numbers
       sub one one' by one.ss01;
       sub two two' by two.ss01;
