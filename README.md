@@ -15,8 +15,11 @@ Clone the project
 
 - Open `features.html` file in your browser of choice. Choose the number of iterations within which the glyphs will automatically alternate. 
 - Add the classes in this repository and the created contextual alternate feature to Glyphs Font Info -> Features section.
+- Add optional number and special character alternatives in calt feature.
 - Turn on `calt` feature.
 - Watch the magic happen!
+
+
 ## Acknowledgements
 
  - [Pico.css](https://github.com/picocss/pico) for easy styling.
